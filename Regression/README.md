@@ -1,4 +1,4 @@
-Explore Different Regression Techniques
+# Explore Different Regression Techniques
 
 Assignment link: http://facweb.cs.depaul.edu/mobasher/classes/CSC478/Assignments/assign3.html
 Built linear regression from scratch
